@@ -1,0 +1,52 @@
+{"artworks": 
+[
+	{
+		"Time": "1347",
+		"Name": "Tribute Horse and Groom",
+		"Artist": "Chao Yung",
+		"Technique": "Handscroll",
+		"Nationality": "Chinese"
+	},
+	{
+		"Time": "1365",
+		"Name": "Altarpiece: Three Saints",
+		"Artist": "Nardo di Cione",
+		"Technique": "Egg tempera on panel",
+		"Nationality": "Italian"
+	},
+	{
+	    "Time": "1522",
+		"Name": "Bacchus and Ariadne",
+		"Artist": "Titian",
+		"Technique": "Oil on canvas",
+		"Nationality": "Italian"
+	},
+	{
+		"Time": "1391",
+		"Name": "Madonna Enthroned with Saints",
+		"Artist": "Spinello Aretino",
+		"Technique": "Panel",
+		"Nationality": "Italian"
+	},
+	{
+		"Time": "1650s",
+		"Name": "Hilly River Landscape",
+		"Artist": "Aelbert Cuyp",
+		"Technique": "Oil on canvas",
+		"Nationality": "Dutch"
+	},
+	{
+		"Time": "1st C A.D.",
+		"Name": "Pompeiian wall",
+		"Artist": "Unknown",
+		"Technique": "Frescoed walls",
+		"Nationality": "Italian"
+	},
+		{
+		"Time": "15th C",
+		"Name": "The Adoration of the Mystic Lamb",
+		"Artist": "Jan van Eyck",
+		"Technique": "Altarpiece",
+		"Nationality": "Dutch"
+	}
+], "number": 7}
